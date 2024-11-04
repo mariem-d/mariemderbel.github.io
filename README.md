@@ -39,3 +39,14 @@ Sep 2020 - Jun 2022 | Sfax Preparatory Engineering Institute
 ### Heart Disease Prediction Model
 - Built a Random Forest model to predict heart disease using clinical data.
 - Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn
+
+## Skills
+
+###  Programming Languages:
+Java, Python, C/C++, JavaScript
+### Operating Systems:
+Windows, Linux
+### Plateforms:
+VSCode, Jupyter Notebook, Docker
+### Version Control:
+ GitHub, Bitbucket
