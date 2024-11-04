@@ -1,4 +1,4 @@
-## mariemderbel.github.io
+## Mariem DERBEL
 
 ## About me
 I am a final-year Electronics and Communication Engineering student specializing in Connected Systems. With a strong foundation in Artificial Intelligence, I am eager to deepen my expertise in data and cloud technologies. 
