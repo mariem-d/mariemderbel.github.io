@@ -15,13 +15,11 @@ Technologies: NumPy, Matplotlib, OpenCV, TensorFlow/Keras, YOLO
 
 ## Education
 
-### Electronic Systems and Communication Engineering Student 
-Current
-National School Of Electronics and Telecommunication Of Sfax
+### Electronic Systems and Communication Engineering Student: Connected Systems 
+Current | National School Of Electronics and Telecommunication Of Sfax
 
 ### Scientific Preparatory Cycle: Physics-Chemistry
-Sep 2020 - Jun 2022
-Sfax Preparatory Engineering Institute 
+Sep 2020 - Jun 2022 | Sfax Preparatory Engineering Institute 
 
 
 ## Projects
