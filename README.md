@@ -1,4 +1,6 @@
-# mariemderbel.github.io
+## About me
+I am a final-year Electronics and Communication Engineering student specializing in Connected Systems. With a strong foundation in Artificial Intelligence, I am eager to deepen my expertise in data and cloud technologies. 
+I am actively seeking an end-of-study internship where I can apply my skills and passion to contribute meaningfully to AI and MLOps projects.
 
 ## Experience
 
