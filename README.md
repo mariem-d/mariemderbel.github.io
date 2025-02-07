@@ -1,8 +1,8 @@
 ## Mariem DERBEL
 
 ## About me
-I am a final-year Electronics and Communication Engineering student specializing in Connected Systems. With a strong foundation in Artificial Intelligence, I am eager to deepen my expertise in data and cloud technologies. 
-I am actively seeking an end-of-study internship where I can apply my skills and passion to contribute meaningfully to AI and MLOps projects.
+I am a final-year Electronics and Communication Engineering student specializing in Connected Systems. Having explored Artificial Intelligence and Data, I am now eager to deepen my expertise further. 
+Currently, I am focusing on testing technologies to broaden my technical skill set and enhance my understanding of system reliability and performance.
 
 ## Experience
 
