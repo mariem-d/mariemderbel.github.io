@@ -1,8 +1,7 @@
 ## Mariem DERBEL
 
 ## About me
-I am a fresh graduate in Electronics and Communication Engineering specializing in Connected Systems. Having explored Artificial Intelligence, Data and Web Development, I am now eager to deepen my expertise further. 
-Currently, I am focusing on testing technologies to broaden my technical skill set and enhance my understanding of system reliability and performance.
+I am a recent graduate in Electronics and Communication Engineering, specializing in Connected Systems. Having explored areas such as Artificial Intelligence, Data, and Web Development, I am now seeking my first junior role to deepen my expertise. Currently, I am focusing on testing technologies to broaden my technical skill set and strengthen my understanding of system reliability and performance.
 
 ## Engineering graduation Project
 
