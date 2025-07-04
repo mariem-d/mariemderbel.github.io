@@ -1,20 +1,28 @@
 ## Mariem DERBEL
 
 ## About me
-I am a final-year Electronics and Communication Engineering student specializing in Connected Systems. Having explored Artificial Intelligence and Data, I am now eager to deepen my expertise further. 
+I am a fresh graduate in Electronics and Communication Engineering specializing in Connected Systems. Having explored Artificial Intelligence, Data and Web Development, I am now eager to deepen my expertise further. 
 Currently, I am focusing on testing technologies to broaden my technical skill set and enhance my understanding of system reliability and performance.
 
+## Engineering graduation Project
+
+### Web Development & Testing Intern
+Feb 2025- Jun 2025 | Primatec Engineering | Sfax, Tunisia
+- Development of a web-based tool for automotive testing teams to compare file versions, extract data, and track test coverage
+through automation and keyword-based validation.
+- Skills: Angular, Spring Boot, MySQL, Postman, Gitlab, ISTQB, Scrum TypeScript, Java, SQL
+ 
 ## Experience
 
 ### Professional internship in data engineering and cloud computing 
-Jul 2024- Aug 2024 | Infosquare | Sfax, Tunisie
+Jul 2024- Aug 2024 | Infosquare | Sfax, Tunisia
 - Implementation of a file migration solution using Node.js and Microsoft Graph API to transfer documents from SharePoint to a server, including metadata extraction and conversion.
-- Technologies: Microsoft Entra ID, Microsoft Graph API, Node.js, Axios, Formidable
+- Skills: Microsoft Entra ID, Microsoft Graph API, Node.js, Axios, Formidable
 
 ### Professional internship in artificial intelligence
 Jun 2023- Jul 2023 | Artibedded | Online
 - Implementation of a plant detection and classification model utilizing Convolutional Neural Networks (CNN) and image data.
-- Technologies: NumPy, Matplotlib, OpenCV, TensorFlow/Keras, YOLO
+- Skills: NumPy, Matplotlib, OpenCV, TensorFlow/Keras, YOLO
 
 
 ## Education
@@ -47,10 +55,10 @@ Sep 2020 - Jun 2022 | Sfax Preparatory Engineering Institute
 ## Skills
 
 ###  Programming Languages:
-Java, Python, C/C++, JavaScript
+Java, Python, JavaScript
 ### Operating Systems:
 Windows, Linux
 ### Plateforms:
 VSCode, Jupyter Notebook, Docker
 ### Version Control:
- GitHub, Bitbucket
+ GitHub, Gitlab
