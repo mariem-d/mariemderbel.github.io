@@ -6,7 +6,7 @@ Currently, I am focusing on testing technologies to broaden my technical skill s
 
 ## Engineering graduation Project
 
-### Web Development & Testing Intern
+### Professional internship in web Development & testing
 Feb 2025- Jun 2025 | Primatec Engineering | Sfax, Tunisia
 - Development of a web-based tool for automotive testing teams to compare file versions, extract data, and track test coverage
 through automation and keyword-based validation.
