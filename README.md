@@ -1,63 +1,75 @@
 ## Mariem DERBEL
 
 ## About me
-I am a recent graduate in Electronics and Communication Engineering, specializing in Connected Systems. Having explored areas such as Artificial Intelligence, Data, and Web Development, I am now seeking my first junior role to deepen my expertise. Currently, I am focusing on testing technologies to broaden my technical skill set and strengthen my understanding of system reliability and performance.
+I am a Software Engineer graduate, with professional experience in functional analysis, web development, and IT project coordination
 
-## Engineering graduation Project
+## Professional Experience
+### Functional Analyst
+January 2026 – Present | Rose Blanche Group | Sousse, Tunisia
+- Contribute to the SAP–Sage People integration project through data flow analysis, business rules definition, and functional requirements documentation.
+- Participate in the consolidation of attendance reports and the conversion of payroll variables.
+- Analyze business processes and gather requirements from different departments to configure a customized web solution for operational process digitalization and automation.
+- Analyze document management requirements and configure a SharePoint-based Electronic Document Management (GED) solution.
+- Use an internal project management platform to track activities, manage tasks, and coordinate IT projects.
+- Technologies: SAP, Sage People, Idhall, BPMN, SharePoint.
 
-### Professional internship in web Development & testing
+### Graduation Project: Professional internship in web Development & testing 
 Feb 2025- Jun 2025 | Primatec Engineering | Sfax, Tunisia
-- Development of a web-based tool for automotive testing teams to compare file versions, extract data, and track test coverage
-through automation and keyword-based validation.
-- Skills: Angular, Spring Boot, MySQL, Postman, Gitlab, ISTQB, Scrum TypeScript, Java, SQL
- 
-## Experience
+- Analyzed automotive testing teams' requirements and developed a web-based tool to automate Excel data processing and DTC test coverage tracking.
+- Implemented a version comparison feature to identify additions, deletions, and modifications in DTC data.
+- Developed test coverage tracking features to identify uncovered Diagnostic Trouble Codes (DTCs).
+- Performed functional, regression, and API testing to ensure application reliability.
+- Technologies: Angular, Spring Boot, MySQL, Postman, Gitlab, ISTQB, Scrum TypeScript, Java, SQL
 
 ### Professional internship in data engineering and cloud computing 
 Jul 2024- Aug 2024 | Infosquare | Sfax, Tunisia
-- Implementation of a file migration solution using Node.js and Microsoft Graph API to transfer documents from SharePoint to a server, including metadata extraction and conversion.
-- Skills: Microsoft Entra ID, Microsoft Graph API, Node.js, Axios, Formidable
+- Developed a Node.js solution to automate document migration from SharePoint to a server, including metadata extraction and transfer.
+- Configured Microsoft Entra ID and Microsoft Graph API to enable secure access to SharePoint documents.
+- Technologies: Sharepoint, Microsoft Entra ID, Microsoft Graph API, Node.js, Postman, Scrum
 
 ### Professional internship in artificial intelligence
 Jun 2023- Jul 2023 | Artibedded | Online
-- Implementation of a plant detection and classification model utilizing Convolutional Neural Networks (CNN) and image data.
-- Skills: NumPy, Matplotlib, OpenCV, TensorFlow/Keras, YOLO
+- Developed a plant detection and classification model using Convolutional Neural Networks (CNNs) and image processing techniques.
+- Technologies: NumPy, Matplotlib, OpenCV, TensorFlow/Keras, YOLO
 
 
 ## Education
 
 ### Electronic Systems and Communication Engineering Student: Connected Systems 
-Current | National School Of Electronics and Telecommunication Of Sfax
+2022 – 2025 | National School Of Electronics and Telecommunication Of Sfax
 
 ### Scientific Preparatory Cycle: Physics-Chemistry
-Sep 2020 - Jun 2022 | Sfax Preparatory Engineering Institute 
+2020 - 2022 | Sfax Preparatory Engineering Institute 
 
 
 ## Projects
 
 ### Airline Reviews Sentiment Analysis
-- Analyzed airline customer reviews using NLP techniques to extract sentiment insights.
+- Applied Natural Language Processing (NLP) techniques to analyze airline customer reviews and extract sentiment insights.
 - Technologies: Python, NLP, Nltk, Pandas, Scikit-learn, Matplotlib
   
 ### Sales Data Dashboard
-- Built interactive Power BI dashboards to visualize products, orders, and sales from CSV data.
+- Designed interactive Power BI dashboards to analyze sales performance, products, and order data.
 - Technologies: Power BI, CSV, DAX
   
 ### Fingerprint Classification Model
-- Created a ResNet50-based model to classify altered vs. valid fingerprints.
+- Developed a deep learning model based on ResNet50 to classify valid and altered fingerprint images.
 - Technologies: Python, TensorFlow/Keras, NumPy, Matplotlib, OpenCV, ResNet50
 
 ### Heart Disease Prediction Model
-- Built a Random Forest model to predict heart disease using clinical data.
+- Built a machine learning model using Random Forest to predict heart disease based on clinical data.
 - Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib/Seaborn
 
 ## Skills
-
-###  Programming Languages:
-Java, Python, JavaScript
-### Operating Systems:
-Windows, Linux
-### Plateforms:
-VSCode, Jupyter Notebook, Docker
-### Version Control:
- GitHub, Gitlab
+### Functional Analysis:
+Requirements Gathering, Business Process Analysis, BPMN, Functional Specifications
+### Web Development
+Angular, Spring Boot, Node.js, REST APIs
+### Data & Reporting
+SQL, Power BI, Python
+### Enterprise Solutions
+SAP, Sage People, SharePoint, Idhall
+### Testing & QA
+Manual Testing, Functional Testing, Regression Testing, API Testing, Postman
+### Project Management
+Scrum, Jira, Trello, GitLab
